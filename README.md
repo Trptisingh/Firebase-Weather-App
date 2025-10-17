@@ -26,7 +26,6 @@ It fetches live weather data from **OpenWeatherMap API** and displays temperatur
 **Project Folder:**
 
 ```
-day4/
 └── Firebase_Hosting/
     ├── index.html
     ├── style.css
